@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Simple_NotePad_FILE /home/alihas_z/Documents/Qt_Projects_Foleder/Simple_NotePad/build/Desktop_Qt_6_9_1-Debug/Simple_NotePad)
+set(__QT_DEPLOY_TARGET_Simple_NotePad_TYPE EXECUTABLE)
